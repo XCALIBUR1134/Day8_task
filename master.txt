@@ -1,1 +1,2 @@
 This is the changed file for cloning task
+Now we use this for pulling task
